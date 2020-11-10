@@ -1,5 +1,5 @@
-# hello-world
+# robot-training
 
-GitHubin peruskäytön opettelu
+GitHubin peruskäytön opettelu.
 
-Käyttö tuntuu helpolta ja nopealta. 
+Robot Frameworkin käyttö verkkokaupan persutestukseen.
