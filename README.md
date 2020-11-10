@@ -2,4 +2,4 @@
 
 GitHubin peruskäytön opettelu.
 
-Robot Frameworkin käyttö verkkokaupan persutestukseen.
+Robot Frameworkin käyttö verkkokaupan perustestaukseen.
